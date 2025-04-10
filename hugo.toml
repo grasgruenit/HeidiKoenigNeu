@@ -1,7 +1,11 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
+languageCode = 'de-de'
+title = 'Dr. Heidi Graber-König'
+theme = 'business'
+
+[Params]
+  subtitle = "Ärztin für psychotherapeutische und psychosomatische Medizin,"
+  subtitle2 = "Allgemeinmedizin und Komplementärmedizin"
 
 [caches]
   [caches.images]

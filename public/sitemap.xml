@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/vita/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/kontakt/</loc>
   </url><url>
     <loc>http://localhost:1313/leistungen/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/wahlaerztin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wahlaerztin2/</loc>
   </url>
 </urlset>

@@ -1,87 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Dr. med. Heidi Graber-König on Dr. Heidi Graber-König</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>en-us</language>
+    <description>Recent content in Dr. med. Heidi Graber-König on Dr. Heidi Graber-König</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home</title>
-      <link>http://localhost:1313/home/</link>
+      <title></title>
+      <link>http://localhost:1313/vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Dr. med. Heidi Graber-König&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Als Ärztin für psychotherapeutische und psychosomatische Medizin ist es mir ein besonderes Anliegen, Sie einfühlsam und kompetent , auf Ihrem Weg zum inneren Gleichgewicht und Wohlbefinden, begleiten zu dürfen.&lt;/p&gt;
-&lt;p&gt;Ich biete Ihnen eine kombinierte psychotherapeutische- psychosomatische&lt;/p&gt;
-&lt;p&gt;Behandlung an, die auf Ihre individuellen Bedürfnisse abgestimmt ist.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;In jedem Menschen schlummert die Kraft, sich bei sich selbst zuhause fühlen zu können!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vita:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nach meiner Matura….( &lt;strong&gt;bitte aus der tcm website übernehmen) bis inklusive:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/vita/</guid>
+      <description>&lt;p&gt;Nach meiner Matura studierte ich Humanmedizin an der med. Univ. Innsbruck, welches ich 1995 mit der univ. Dr.med. abgeschlossen habe, immer begleitet vom Studium der Komplementär- und psychosomatischen Medizin.&lt;/p&gt;&#xA;&lt;p&gt;Meine Turnusärztinausbildung absolvierte ich in Vorarlberg, begleitet von ständigen Weiterbildungen.&lt;/p&gt;&#xA;&lt;p&gt;Nach familiär bedingten Auslandsaufenthalten in den USA und dort Beschäftigung im mental health departement arbeitete ich 6 Jahre in einer allgemeinmedizinischen Praxis mit Akupunktur als Vertretung, sowie in der Dialyse Bregenz. In der weiter Folge vertiefte ich meine Weiterbildung in der deutschen Panoramaklinik für psychosomatische und psychotherapeutische Medizin und Naturheilkunde in Scheidegg, wo ich als Ärztin für Allgemeinmedizin, TCM und Psychotherapie 2 1/2 Jahre arbeitete.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>
       <link>http://localhost:1313/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kontakt/</guid>
-      <description>&lt;p&gt;TERMINE&lt;/p&gt;
-&lt;p&gt;Termine nach telefonischer oder per email Vereinbarung&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TEL. 0043 699 12592620&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;eMail : &lt;a href=&#34;mailto:heidigraber4@gmail.com&#34;&gt;heidigraber4@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ÖFFNUNGSZEITEN&lt;/p&gt;
-&lt;p&gt;Montag: 14.00 – 19 .00 , Dienstag: 16.30 – 20.30&lt;/p&gt;
-&lt;p&gt;Mittwoch: 10.00 -12.30 , 14.30 -18.30&lt;/p&gt;
-&lt;p&gt;ADRESSE&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mockenstraße 8&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;6971 Hard&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hier bitte MAP einfügen!&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;termine&#34;&gt;TERMINE&lt;/h1&gt;&#xA;&lt;p&gt;Termine nach telefonischer oder email Vereinbarung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TEL. 0043 699 12592620&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;eMail : &lt;a href=&#34;mailto:heidigraber4@gmail.com&#34;&gt;heidigraber4@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;öffnungszeiten&#34;&gt;ÖFFNUNGSZEITEN&lt;/h1&gt;&#xA;&lt;p&gt;Montag: 14.00 – 19 .00 , Dienstag: 16.30 – 20.30&lt;/p&gt;&#xA;&lt;p&gt;Mittwoch: 10.00 -12.30 , 14.30 -18.30&lt;/p&gt;&#xA;&lt;h1 id=&#34;adresse&#34;&gt;ADRESSE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mockenstraße 8, 6971 Hard&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Leistungen</title>
+      <title>Leistungsspektrum</title>
       <link>http://localhost:1313/leistungen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/leistungen/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;kombinierte psychotherapeutisch-psychosomatische Therapie,&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;auf Ihren individuellen Bedarf abgestimmt&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ressourcenstärkende Psychotherapie&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Erlebnisbasierte Psychotherapie in der Natur&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Psychotraumatherapie ( EMDR, IRRT)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schematherapie&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Multimodale Depressionstherapie&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Psychosomatisch orientierte Ohrakupunktur, NADA&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;kombinierte psychotherapeutisch-psychosomatische Therapie,&lt;br&gt;&#xA;auf Ihren individuellen Bedarf abgestimmt&lt;/li&gt;&#xA;&lt;li&gt;Ressourcenstärkende Psychotherapie&lt;/li&gt;&#xA;&lt;li&gt;Erlebnisbasierte Psychotherapie in der Natur&lt;/li&gt;&#xA;&lt;li&gt;Psychotraumatherapie ( EMDR, IRRT)&lt;/li&gt;&#xA;&lt;li&gt;Schematherapie&lt;/li&gt;&#xA;&lt;li&gt;Multimodale Depressionstherapie&lt;/li&gt;&#xA;&lt;li&gt;Psychosomatisch orientierte Ohrakupunktur, NADA&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Wahlaerztin</title>
+      <title>Wahlärztin</title>
       <link>http://localhost:1313/wahlaerztin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wahlaerztin/</guid>
-      <description>&lt;p&gt;Als Wahlärztin hat man kein Vertragsverhältnis&lt;/p&gt;
-&lt;p&gt;mit den Krankenversicherungsanstalten. Jeder, der will,&lt;/p&gt;
-&lt;p&gt;kann die Leistungen eines Wahlarztes in Anspruch nehmen.&lt;/p&gt;
-&lt;p&gt;Somit benötigen Sie für die Inanspruchnahme wahlärztlicher&lt;/p&gt;
-&lt;p&gt;Leistungen keinen Überweisungsschein und keine E-Card.&lt;/p&gt;
-&lt;p&gt;WIE ERFOLGT DIE ABRECHNUNG&lt;/p&gt;
-&lt;p&gt;Um so gut wie möglich eine zeitraubende Bürokratie zu vermeiden,&lt;/p&gt;
-&lt;p&gt;erlaube ich mir einmal am Ende des jeweiligen Therapiemonats ,&lt;/p&gt;
-&lt;p&gt;die Honorarnote/ Rechnung über die erbrachte Leistung, zu stellen.&lt;/p&gt;
-&lt;p&gt;Diese können Sie dann bequem von zuhause online oder bei der&lt;/p&gt;</description>
+      <description>&lt;p&gt;Als Wahlärztin hat man kein Vertragsverhältnis mit den Krankenversicherungsanstalten. Jeder, der will, kann die Leistungen eines Wahlarztes in Anspruch nehmen.&lt;/p&gt;&#xA;&lt;p&gt;Somit benötigen Sie für die Inanspruchnahme wahlärztlicher Leistungen keinen Überweisungsschein und keine E-Card.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wahlärztin</title>
+      <link>http://localhost:1313/wahlaerztin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wahlaerztin2/</guid>
+      <description>&lt;p&gt;Um so gut wie möglich eine zeitraubende Bürokratie zu vermeiden, erlaube ich mir einmal am Ende des jeweiligen Therapiemonats, die Honorarnote/ Rechnung über die erbrachte Leistung, zu stellen.&lt;/p&gt;&#xA;&lt;p&gt;Diese können Sie dann bequem von zuhause online oder bei der Bank mittels Erlagschein einzahlen.&lt;/p&gt;&#xA;&lt;p&gt;Die bezahlte Rechnung können Sie anschließend bei Ihrer gesetzlichen Krankenversicherung, sowie auch privaten Krankenversicherung dann einreichen, welche Ihnen dann den zustehenden Rückerstattungsbetrag auf Ihr angegebenes Konto rücküberweist. Auf die Höhe des Rückerstattungsbetrages haben wir keinen Einfluss, da viele Patienten individuelle Verträge mit ihrer Krankenversicherung haben. Daher ist der Rückerstattungsbetrag nicht nur von Patient zu Patient unterschiedlich, sondern auch von Krankenversicherung zu Krankenversicherung.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
