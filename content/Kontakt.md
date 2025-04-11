@@ -8,9 +8,9 @@ layout = 'kontakt'
 
 Termine nach telefonischer oder email Vereinbarung 
 
-**TEL. 0043 699 12592620** 
+**Telefon**: 0043 699 12592620 
 
-eMail : [heidigraber4@gmail.com](mailto:heidigraber4@gmail.com) 
+**eMail**: [heidigraber4@gmail.com](mailto:heidigraber4@gmail.com) 
 
  
 
@@ -24,4 +24,4 @@ Mittwoch: 10.00 -12.30, 14.30 -18.30
 
 # ADRESSE 
 
-**Mockenstraße 8, 6971 Hard** 
+Mockenstraße 8, 6971 Hard  
