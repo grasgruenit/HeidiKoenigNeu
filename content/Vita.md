@@ -14,7 +14,8 @@ Nach familiär bedingten Auslandsaufenthalten in den USA und dort Beschäftigung
 
 Daraufhin folgte meine berufliche Selbständigkeit als Ärztin für Allgemeinmedizin, Akupunktur und psychotherapeutische Medizin in einer Gemeinschaftspraxis für weitere 2 Jahre. 
 
-* ÖÄK Diplome, Weiterbildungen
+## ÖÄK Diplome, Weiterbildungen
+
 * Psychosoziale und psychosomatische Medizin
 * Ärztin für psychotherapeutische Medizin
 * Ärztin für Allgemeinmedizin
