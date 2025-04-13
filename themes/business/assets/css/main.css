@@ -1,4 +1,4 @@
-@charset "UTF-8";
+F@charset "UTF-8";
 /*!
 * Start Bootstrap - Business Casual v7.0.9 (https://startbootstrap.com/theme/business-casual)
 * Copyright 2013-2023 Start Bootstrap
@@ -10939,7 +10939,7 @@ p {
 }
 .cta .cta-inner {
   position: relative;
-  padding: 3rem;
+  padding: 1.5rem;
   margin: 0.5rem;
 }
 .cta .cta-inner:before {
