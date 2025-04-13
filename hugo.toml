@@ -4,8 +4,8 @@ title = 'Dr. Heidi Graber-König'
 theme = 'business'
 
 [Params]
-  subtitle = "Ärztin für psychotherapeutische und psychosomatische Medizin,"
-  subtitle2 = "Allgemeinmedizin und Komplementärmedizin"
+  subtitle = Ärztin für psychotherapeutische und psychosomatische Medizin,
+  subtitle2 = Allgemeinmedizin und Komplementärmedizin
 
 [caches]
   [caches.images]
