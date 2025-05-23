@@ -1,23 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://psygraberkoenig.com/vita/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/categories/</loc>
-  </url><url>
     <loc>https://psygraberkoenig.com/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/impressum/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/kontakt/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/leistungen/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/tags/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/wahlaerztin/</loc>
-  </url><url>
-    <loc>https://psygraberkoenig.com/wahlaerztin2/</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://psygraberkoenig.com/leistungen</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://psygraberkoenig.com/kontakt</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+   <url>
+    <loc>https://psygraberkoenig.com/wahlaerztin</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
