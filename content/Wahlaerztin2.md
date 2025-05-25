@@ -2,6 +2,7 @@
 title = 'Wahlärztin'
 description = 'WIE ERFOLGT DIE ABRECHNUNG?'
 layout = 'wahlaerztin'
+sitemap.exclude = true
 
 +++
 
