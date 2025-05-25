@@ -3,6 +3,8 @@ languageCode = 'de-de'
 title = 'Dr. Heidi Graber-König'
 theme = 'business'
 
+disableKinds = ['sitemap']
+
 [Params]
   subtitle = 'Psychotherapie in Hard, Vorarlberg'
   subtitle2 = 'Allgemeinmedizin und Komplementärmedizin'
